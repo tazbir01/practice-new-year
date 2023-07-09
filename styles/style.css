@@ -7,7 +7,39 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
+
 /* this is for header */
 header {
+    /* background-image: url(../images/banner/banner2.png); */
+}
+
+.header-container {
     background-image: url(../images/banner/banner2.png);
+    background-repeat: no-repeat;
+    direction: rtl;
+    padding: 210px 230px 180px 845px;
+}
+
+.header-title {
+    color: #151414;
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.header-description {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.contact-btn {
+    border: 0;
+    border-radius: 5px;
+    background: #F15B22;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 25px;
 }
