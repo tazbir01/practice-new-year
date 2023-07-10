@@ -139,3 +139,39 @@ font-weight: 700;
     padding: 20px 35px;
     margin-top: 25px;
 }
+
+/* footer start from here */
+.footer-container{
+    background-color: #151414;
+    color: white;
+    display: flex;
+}
+.footer-fu{
+    padding: 130px 330px 130px 230px;
+}
+.footer-title{
+font-size: 45px;
+font-weight: 700;
+margin-bottom: 30px;
+}
+.footer-description{
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 20px;
+}
+.footer-subscribe{
+    padding: 130px 230px 0 0;
+}
+.f-icon{
+    margin-top: 10px;
+}
+.footer-r-title{
+    margin-bottom: 30px;
+}
+.footer-subscribe input{
+    color: white;
+    background-color: #151414;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 20px 150px 20px 15px;
+}
